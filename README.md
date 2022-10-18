@@ -1,2 +1,2 @@
-# school_district_analysis
+# School District Analysis. 
 Analysis on school district scores using Python. 
